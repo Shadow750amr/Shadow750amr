@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineer<br> Currently learning about:<br><br>1. Ai engineering.<br>2. Streaming architectures.<br>3.<br><br>🛠️ Tech Stack & Tools <br><br>Data Engineering & Orchestration: Apache Airflow, dbt, Snowflake<br>Cloud Computing: AWS and GCP<br>Languages & Frameworks: Python, SQL, Flask<br>Data Science & AI: Inferencial statistics, predictive modeling and local LLMs (OLLAMA) <br><br>📫 Connect with me<br>LinkedIn: https://www.linkedin.com/in/marco-antonio-r/<br>
+Data Engineer<br> Currently learning about:<br><br>1. Ai engineering.<br>2. Streaming architectures.<br><br><br>🛠️ Tech Stack & Tools <br><br>Data Engineering & Orchestration: Apache Airflow, dbt, Snowflake<br>Cloud Computing: AWS and GCP<br>Languages & Frameworks: Python, SQL, Flask<br>Data Science & AI: Inferencial statistics, predictive modeling and local LLMs (OLLAMA) <br><br>📫 Connect with me<br>LinkedIn: https://www.linkedin.com/in/marco-antonio-r/<br>
 
 
 ## 🌐 Socials:

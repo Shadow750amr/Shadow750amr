@@ -1,9 +1,9 @@
 # About Me:
-Data Engineer<br> Currently learning about:<br><br>1. Ai engineering.<br>2. Streaming architectures.<br><br><br>
+Data Engineer<br> Currently learning about Ai engineering and Streaming architectures.
 ### Tech Stack & Tools
-* Data Engineering & Orchestration: Apache Airflow, dbt, Snowflake<br>Cloud 
-* Computing: AWS (glue, s3, lambda, eventbridge scheduler) <br>
-* Languages & Frameworks: Python, SQL, Flask<br>
+* Data Engineering & Orchestration: Apache Airflow, dbt, Snowflake
+* Cloud Computing: AWS (glue, s3, lambda, eventbridge scheduler)
+* Languages & Frameworks: Python, SQL, Flask
 * Data Science & AI: Inferencial statistics, predictive modeling and local LLMs (OLLAMA)
 
 ### Connect with me

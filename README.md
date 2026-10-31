@@ -15,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/marco-antonio-r/
 | Project | Description | Architecture & Methodology | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[Lakehouse Iceberg Glue](https://github.com/Shadow750amr/lakehouse-iceberg-glue)** | End-to-end Lakehouse and ETL pipeline using mocked ERP transactional data (inventory and sales) to analyze data at rest in cloud environments. | • **Medallion Architecture** (Bronze, Silver, Gold)<br>• **Kimball Dimensional Modeling** (Gold layer) | AWS (Glue, S3, Lambda, EventBridge), Apache Iceberg, PySpark, SQL |
-| **[Consumer Complaints ELT](https://github.com/Shadow750amr/complaints_project)** | End-to-end ELT data pipeline ingesting Mexican government national open data (PROFECO) for BI consumption and history tracking. | • **Medallion Architecture** (Bronze, Silver, Gold)<br>• **SCD Type 2 Modeling** (dbt snapshots)<br>• **Full-Refresh & Backfill Strategy** | Python, Apache Airflow (Astronomer Cosmos), Amazon S3, Snowflake, dbt |
+| **[Consumer Complaints ELT](https://github.com/Shadow750amr/complaints_pipeline_dbt_cosmos_airflow)** | End-to-end ELT data pipeline ingesting Mexican government national open data (PROFECO) for BI consumption and history tracking. | • **Medallion Architecture** (Bronze, Silver, Gold)<br>• **SCD Type 2 Modeling** (dbt snapshots)<br>• **Full-Refresh & Backfill Strategy** | Python, Apache Airflow (Astronomer Cosmos), Amazon S3, Snowflake, dbt |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-antonio-r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHADOW750amr) 

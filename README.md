@@ -1,5 +1,5 @@
 # About Me:
-Data Engineer<br> Currently learning about Ai engineering and Streaming architectures.
+Data Engineer<br> Currently learning about AI engineering and streaming architectures.
 ### Tech Stack & Tools
 * Data Engineering & Orchestration: Apache Airflow, dbt, Snowflake
 * Cloud Computing: AWS (glue, s3, lambda, eventbridge scheduler)
@@ -10,7 +10,7 @@ Data Engineer<br> Currently learning about Ai engineering and Streaming architec
 
 LinkedIn: https://www.linkedin.com/in/marco-antonio-r/
 
-### Feature projects
+### Featured projects
 | Project | Description | Architecture & Methodology | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | 🏗️ **[Lakehouse Iceberg Glue](https://github.com/Shadow750amr/lakehouse-iceberg-glue)** | End-to-end Lakehouse and ETL pipeline using mocked ERP transactional data (inventory and sales) to analyze data at rest in cloud environments. | • **Medallion Architecture** (Bronze, Silver, Gold)<br>• **Kimball Dimensional Modeling** (Gold layer) | AWS (Glue, S3, Lambda, EventBridge), Apache Iceberg, PySpark, SQL |

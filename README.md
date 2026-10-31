@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/marco-antonio-r/
 ### Featured projects
 | Project | Description | Architecture & Methodology | Tech Stack |
 | :--- | :--- | :--- | :--- |
-| 🏗️ **[Lakehouse Iceberg Glue](https://github.com/Shadow750amr/lakehouse-iceberg-glue)** | End-to-end Lakehouse and ETL pipeline using mocked ERP transactional data (inventory and sales) to analyze data at rest in cloud environments. | • **Medallion Architecture** (Bronze, Silver, Gold)<br>• **Kimball Dimensional Modeling** (Gold layer) | AWS (Glue, S3, Lambda, EventBridge), Apache Iceberg, PySpark, SQL |
+| **[Lakehouse Iceberg Glue](https://github.com/Shadow750amr/lakehouse-iceberg-glue)** | End-to-end Lakehouse and ETL pipeline using mocked ERP transactional data (inventory and sales) to analyze data at rest in cloud environments. | • **Medallion Architecture** (Bronze, Silver, Gold)<br>• **Kimball Dimensional Modeling** (Gold layer) | AWS (Glue, S3, Lambda, EventBridge), Apache Iceberg, PySpark, SQL |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-antonio-r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHADOW750amr) 
